@@ -8,6 +8,6 @@
 
 * 如果你发现了本书的任何问题，或者有任何改善建议的，欢迎提交issue！
 
-* 本书配套的自然语言课程已上线到[伯禹学习平台](https://www.boyuai.com/elites/course/???)，所有人都可以免费学习和讨论。
+* 本书配套的自然语言课程已上线到[伯禹学习平台](https://www.boyuai.com/elites/course/???)，所有人都可以学习和讨论。
 
 ![](https://boyuai.oss-cn-shanghai.aliyuncs.com/disk/tmp/hnlp-poster.jpeg)
